@@ -1,4 +1,8 @@
 Ecommerce mobile appliaction.
+
+Note: this is not the final app working every day to make it better. Thank you 
+
+
 Main_TechStack: flutter, dart, firebase, android Studio.
 others: git,github, canva, lottie animations, Getx state management,Asynchrous programming.
 
