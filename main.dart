@@ -20,7 +20,7 @@ void main() async {
 
   await Firebase.initializeApp(
       options: FirebaseOptions(
-          apiKey: "AIzaSyBFHE8yzqsMfWqKiuAQW7QSo937JGQAn9o",
+          apiKey: "firebase API",
           appId: "1:50613708252:android:6c126f64d1cd288d131b19",
           messagingSenderId: "50613708252",
           projectId: "groots-77ea3"));
