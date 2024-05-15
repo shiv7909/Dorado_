@@ -71,6 +71,10 @@ Screens:
 <img src="https://github.com/shiv7909/Dorado_/assets/150989624/71330f28-5bf1-40e0-820b-7be93991ef58" width="20%" />
 <img src="https://github.com/shiv7909/Dorado_/assets/150989624/63074fcd-04c4-4152-884e-78116b37f83f" width="20%" />
 
+<p align="center">
+  <video src="images/video.mp4" width="500px"></video>
+</p>
 
+<video src="images/video.mp4" width="320" height="240" controls></video>
 
 
