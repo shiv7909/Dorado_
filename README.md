@@ -23,7 +23,6 @@ Animated containers.
 
 { All the products info, sub heading of the app, cart info, favourites info is fetched from the backend firebase when makes the application dynamic}
 
-
 Screens:
 
 <img src="https://github.com/shiv7909/Dorado_/assets/150989624/19166f7c-47f6-4776-b715-845484ac16d7" width="20%" />

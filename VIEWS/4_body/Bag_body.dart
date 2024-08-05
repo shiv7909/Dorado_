@@ -340,3 +340,7 @@ class ShimmerCartProductItem extends StatelessWidget {
     );
   }
 }
+
+
+
+
